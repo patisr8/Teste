@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <title>Curriculo </title>
+<link rel="stylehead" type="text/css" href="bootstrap-4.0.0-beta">
+ </head>
+ <body style="background-color:#800000;">
+
+
+   <div style="background-color:gray;color:white;padding:1px;"></div>
+       <div align=center>
+         <div style="background-color:black;color:white;padding:1px;">
+         <h2>Patrícia Rocha</h2>
+      </div>
+      <div style="background-color:gray;color:white;padding:1px;"></div>
+      <div style="background-color:#800000;color:white;padding:5px;"></div>
+<div>
+<img src="IMGpt.jpg" class="img-responsive" alt="Patricia Rocha" width="120" height="150">
+</div>
+<h3 style="color:dark gray;">Informações gerais </h3>
+      <p style="color:gray;">
+        Patrícia de Souza Rocha<br>
+        Rua José Onofre, 01 – Rio Grande – Diamantina - MG<br>
+        Telefone: (38) 9 9153-8987<br>
+        E-mail: patisr8@gmail.com<br>
+        Idade: 19 anos<br>
+      </p>
+    <h3 style="color:dark gray;">Objetivos </h3>
+     <p style="color:gray;">
+       Procuro na Next Step – EJ, ter mais contato com a área.<br>
+       Para que minha experiência no curso seja ainda mais proveitosa.
+   </p>
+   <h3 style="color:dark gray;">Formação</h3>
+     <p style="color:gray;">Ensino Superior – Bacharelado em Sistemas de Informação - Em Andamento<br>
+        Universidade Federal dos Vales do Jequitinhonha e Mucuri - Diamantina<br>
+        Previsão de Conclusão: Dezembro/2020<br>
+        Período: 3º<br>
+        <br>
+        Ensino Médio – Escola Estadual Américo Antunes de Oliveira – Concluído em 2015<br>
+        Turmalina - MG
+    </p>
+  <h3 style="color:dark gray;">Experiências anteriores</h3>
+    <p style="color:gray;">Curso Auxiliar Administrativo – SENAI CFP - Turmalina
+    <div style="background-color:gray;color:white;padding:1px;"></div>
+  </p>
+</div>
+ </body>
+</html>
